@@ -1,5 +1,3 @@
-# FFXIV Crafting Log
-# currently no typos in 1-5 (04-16-2023)
 
 import raw_gathered_materials
 import raw_hunted_materials
